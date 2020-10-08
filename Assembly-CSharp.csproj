@@ -66,6 +66,7 @@
     <Compile Include="Assets\BehaviorScripts\AlignmentBehavior.cs" />
     <Compile Include="Assets\BehaviorScripts\AvoidanceBehavior.cs" />
     <Compile Include="Assets\BehaviorScripts\CohesionBehavior.cs" />
+    <Compile Include="Assets\BehaviorScripts\CompositeBehavior.cs" />
     <Compile Include="Assets\Flock.cs" />
     <Compile Include="Assets\FlockAgent.cs" />
     <Compile Include="Assets\FlockBehavior.cs" />
